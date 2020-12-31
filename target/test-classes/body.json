@@ -1,0 +1,9 @@
+{
+  "description": "This is  a test description",
+  "public": true,
+  "files": {
+    "test.txt": {
+      "content": "This is a test gist file"
+    }
+  }
+}
