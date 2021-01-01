@@ -24,5 +24,5 @@ To run the tests simply run `maven  test` from the projects folder or run the te
 
 ---
 Known issues:
-- The tests are hardcoded to run sequentially and therefore will break if ran out of order.
+- The tests are hardcoded to run sequentially due to the nature of the given task, and therefore will break if ran out of order.
 However if the creation test was used as a base to prepare for every other, and the removal test grabbed gist ID's from server-side instead, it would be perfectly possible to reconfigure the entire suite to be modular instead.
