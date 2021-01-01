@@ -6,7 +6,7 @@ Dependencies:
 - Maven
 ---
 
-Coverage
+Coverage:\
 The tests are configured to, in a sequential order, create a gist, validate it contains all the necessary fields and promptly remove it.
 
 ---
