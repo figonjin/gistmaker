@@ -13,5 +13,7 @@ Where:\
 `gh.username`= git username\
 `gh.password` = personal access token ID (make sure to give `gist` permissions when creating the token)
 
+However sample git credentials are included in the test
+
 ---
 To run the tests simply run `maven  test` from the projects folder or run the tests from `src/test/java/org.local.gistman/GistTests.java` using the IDE of your choice
