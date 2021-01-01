@@ -12,5 +12,6 @@ To change the account variables, modify the following file:
 Where:\
 `gh.username`= git username\
 `gh.password` = personal access token ID (make sure to give `gist` permissions when creating the token)
+
 ---
 To run the tests simply run `maven  test` from the projects folder or run the tests from `src/test/java/org.local.gistman/GistTests.java` using the IDE of your choice
