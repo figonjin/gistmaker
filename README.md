@@ -1,6 +1,3 @@
-### The test comes with a blank account provided
-
----
 Dependencies:
 - Java 11
 - Maven
